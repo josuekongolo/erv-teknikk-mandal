@@ -1,0 +1,11 @@
+# robots.txt for ERV Teknikk Mandal AS
+# https://www.erv.no/mandal
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.erv.no/mandal/sitemap.xml
+
+# Crawl-delay (optional, for politeness)
+Crawl-delay: 1
